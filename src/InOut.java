@@ -1,3 +1,6 @@
+/**
+        @this is
+        */
 public interface InOut
 {
    String nextLine(String prompt);
